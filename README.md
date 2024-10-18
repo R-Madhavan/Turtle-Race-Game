@@ -1,7 +1,4 @@
-```markdown
 # Turtle Race Game
-
-![Turtle Race GIF](https://media.giphy.com/media/3oFzm5R4P67k6DQZg4/giphy.gif)
 
 ## Overview
 
@@ -31,18 +28,7 @@ Welcome to the **Turtle Race Game**! This fun and interactive game lets you bet 
 - Watch the turtles race across the screen as they move randomly.
 - At the end of the race, see if your bet was successful!
 
-## License
+## Example
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![image](https://github.com/user-attachments/assets/d631fe52-b614-43f4-985f-29495c3c5a53)
 
-## Acknowledgments
-
-Thanks to the Python community for the `turtle` module that makes this game possible!
-```
-
-### GIF:
-You can replace the GIF link in the markdown with any other GIF that you find more suitable. The link provided features a fun turtle animation, which fits the theme of your game. 
-
-You can find more GIFs on sites like [Giphy](https://giphy.com/) or [Tenor](https://tenor.com/), depending on what you think represents your game best.
-
-Feel free to adjust any part of the `README.md` to better match your style or to add additional information!
